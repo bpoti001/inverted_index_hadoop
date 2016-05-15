@@ -8,8 +8,8 @@ file1.txt ==> Hello World Bye World
 file2.txt ==> Hello Hadoop Goodbye Hadoop
 
 Output:
-Bye	    file1.txt
-Goodbye	file2.txt
-Hadoop	file2.txt,file2.txt
-Hello	  file2.tx,file1.txt
-World	  file1.txt,file1.txt
+Bye	      file1.txt
+Goodbye	  file2.txt
+Hadoop	  file2.txt,file2.txt
+Hello	    file2.tx,file1.txt
+World	    file1.txt,file1.txt
